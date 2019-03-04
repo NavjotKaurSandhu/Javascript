@@ -43,6 +43,9 @@ ECMAScript is just a specification where as JS is programming language that conf
     * [`Factory Object`](src/object/object_factory.js)
     * [`Constructor Object`](src/object/object_constructor.js)
     
+## Object datatypes
+
+[`Object datatypes`](src/object/value_reference_type.js)
 
 ## TypedArray
 
