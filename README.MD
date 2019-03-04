@@ -120,7 +120,7 @@ ECMAScript is just a specification where as JS is programming language that conf
    ```
 3. Function.prototype.bind() does partial application actually.
 4. Curring Implementations :
-    * [`Curring`](src/multiply-with-curry.js)
+    * [`Curring`](src/multiply_with_curry.js)
 
 ## Uncurrying
 
@@ -130,7 +130,7 @@ ECMAScript is just a specification where as JS is programming language that conf
       f(n)(m) --> f'(n, m);
    ```
 2. Uncurring Implementations :
-   * [`Uncurring`](src/multiply-with-curry.js)
+   * [`Uncurring`](src/multiply_with_curry.js)
 
 ## Field or Field Proposal
 
@@ -193,7 +193,7 @@ ECMAScript is just a specification where as JS is programming language that conf
 7. Map has size but WeakMap has length.
 8. In Map we can use forEach() for iterating but not in WeakMap.
 9. Example :
-    * [`WeakMap vs Map`](src/weak-map.js)
+    * [`WeakMap vs Map`](src/weak_map.js)
     
 **NOTE: If you run above example in Chrome you can check the difference of memory in DevTools under profiles.**
 
