@@ -8,4 +8,4 @@
 6. Whenever you want to extend an object but can't because it is sealed - or from an external source - a WeakMap can be applied.
 7. If the object is destroyed, the garbage collector knows to come and remove the entire entry from the Weakmap thus freeing up memory.
 8. WeakMap implementations :
-    * [`WeakMap`](../src/weak-map.js)
+    * [`WeakMap`](../src/weak_map.js)
