@@ -32,4 +32,4 @@
        Float64Array();
      ```
 5. TypedArray implementations :
-    * [`TypedArray`](../src/typed-array.js)
+    * [`TypedArray`](../src/typed_array.js)
