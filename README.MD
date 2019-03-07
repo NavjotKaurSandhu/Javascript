@@ -47,6 +47,14 @@ ECMAScript is just a specification where as JS is programming language that conf
 
 [`Object datatypes`](src/object/value_reference_type.js)
 
+## Enumerating properties of an object
+
+[`Enumerating Object`](src/object/enumerate_property_obj.js)
+
+## Grabage Collections
+
+[`Grabage Collections`](src/object/grabage.js)
+
 ## TypedArray
 
 [`TypedArray`](docs/typed-array.md)
